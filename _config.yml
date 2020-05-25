@@ -10,7 +10,7 @@ baseurl: ""
 # Build settings
 permalink: pretty
 markdown: kramdown
-remote_theme: ateliedetemas/jekyll-theme-blp
+theme: jekyll-theme-blp
 
 
 # SEO
