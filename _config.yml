@@ -1,0 +1,18 @@
+# Site settings
+title: BLP
+email: contato@blp.com.br
+description: >-
+  Somos uma gestora diferenciada de fundos estruturados e alternativos que visa buscar retornos de médio e longo prazo.
+url: "https://www.blp.com.br"
+baseurl: ""
+
+
+# Build settings
+permalink: pretty
+markdown: kramdown
+remote_theme: ateliedetemas/jekyll-theme-blp
+
+
+# SEO
+lang: pt-BR
+google_site_verification: "4gEXkSQnEh4O7SoBHYPdg9KGg3CPfyBBrz86RxGxBnc"
